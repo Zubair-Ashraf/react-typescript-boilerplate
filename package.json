@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "The boilerplate for a react-typescript starter project",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubair-Ashraf/react-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "typescript"
+  ],
+  "author": "Zubair Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zubair-Ashraf/react-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Zubair-Ashraf/react-typescript-boilerplate#readme"
+}
